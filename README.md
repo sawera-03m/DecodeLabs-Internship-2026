@@ -1,6 +1,4 @@
 # DecodeLabs-Internship-2026
-# EcodeLabs Internship 2026
-
 This repository contains the projects and tasks completed during my internship at EcodeLabs.
 
 ## About the Internship
