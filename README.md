@@ -9,23 +9,18 @@ This repository showcases my practical work, learning progress, and hands-on exp
 
 | Task    | Project      | Description                      |
 | ------- | ------------ | -------------------------------- |
-| Project 01 | Rule-Based AI Chatbot |A simple chatbot using if-else logic to respond to predefined user inputs. |
-| Project 02 |Data Classification Using AI |A basic AI classification model trained on a dataset to predict data categories. |
-| Project 03 | Project Name | Brief description of the project |
+| Project 01 | Rule-Based AI Chatbot |A simple chatbot using if-else logic to respond to predefined user inputs.|
+| Project 02 |Data Classification Using AI |A basic AI classification model trained on a dataset to predict data categories.|
+| Project 03 |AI Recommendation Logic | A simple recommendation system that suggests items based on user preferences.|
 
 ## Technologies Used
 
 * Python
-* C++
-* HTML
-* CSS
-* JavaScript
-* Django
 * Git & GitHub
 
 ## Internship
 
-**Organization:** EcodeLabs
+**Organization:** DecodeLabs
 **Program:** Internship 2026
 **Role:** Intern
 
@@ -33,4 +28,4 @@ This repository showcases my practical work, learning progress, and hands-on exp
 
 **Sawera Mushtaq**
 
-This repository is maintained as part of my EcodeLabs Internship 2026 project submission.
+This repository is maintained as part of my DecodeLabs Internship 2026 project submission.
